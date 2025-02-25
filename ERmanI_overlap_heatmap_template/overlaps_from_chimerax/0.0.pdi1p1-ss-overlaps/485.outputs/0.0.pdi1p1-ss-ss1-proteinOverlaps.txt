@@ -1,0 +1,34 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+26 clashes
+          atom1                      atom2           overlap  distance
+ERman1.pdb #1/A PRO 589 CA  ss.1.pdb #2/? ASP 19 CA   2.858    0.542
+ERman1.pdb #1/A PRO 589 N   ss.1.pdb #2/? ASP 19 CA   2.199    1.126
+ERman1.pdb #1/A PRO 589 CA  ss.1.pdb #2/? ASP 19 C    1.990    1.410
+ERman1.pdb #1/A PRO 589 N   ss.1.pdb #2/? ASP 19 C    1.921    1.404
+ERman1.pdb #1/A PRO 589 C   ss.1.pdb #2/? ASP 19 C    1.907    1.493
+ERman1.pdb #1/A ALA 590 N   ss.1.pdb #2/? ASP 19 C    1.828    1.497
+ERman1.pdb #1/A LYS 588 C   ss.1.pdb #2/? ASP 19 O    1.581    1.599
+ERman1.pdb #1/A ALA 590 N   ss.1.pdb #2/? SER 20 N    1.563    1.687
+ERman1.pdb #1/A PRO 589 CA  ss.1.pdb #2/? ASP 19 N    1.525    1.800
+ERman1.pdb #1/A PRO 589 C   ss.1.pdb #2/? ASP 19 CA   1.402    1.998
+ERman1.pdb #1/A LYS 588 C   ss.1.pdb #2/? ASP 19 C    1.369    2.031
+ERman1.pdb #1/A PRO 589 N   ss.1.pdb #2/? ASP 19 N    1.319    1.931
+ERman1.pdb #1/A ALA 590 N   ss.1.pdb #2/? SER 20 CA   1.266    2.059
+ERman1.pdb #1/A LYS 588 C   ss.1.pdb #2/? ASP 19 CA   1.255    2.145
+ERman1.pdb #1/A PRO 589 N   ss.1.pdb #2/? ASP 19 O    1.228    1.877
+ERman1.pdb #1/A LYS 588 O   ss.1.pdb #2/? ASP 19 O    1.188    1.772
+ERman1.pdb #1/A PRO 589 C   ss.1.pdb #2/? ASP 19 O    1.163    2.017
+ERman1.pdb #1/A PRO 589 C   ss.1.pdb #2/? SER 20 N    1.139    2.186
+ERman1.pdb #1/A PRO 589 CA  ss.1.pdb #2/? SER 20 N    1.091    2.234
+ERman1.pdb #1/A ALA 590 N   ss.1.pdb #2/? ASP 19 O    1.002    1.703
+ERman1.pdb #1/A PRO 589 N   ss.1.pdb #2/? THR 18 O    0.982    2.123
+ERman1.pdb #1/A PRO 589 N   ss.1.pdb #2/? THR 18 C    0.940    2.385
+ERman1.pdb #1/A PRO 589 N   ss.1.pdb #2/? SER 20 N    0.925    2.325
+ERman1.pdb #1/A PRO 589 CA  ss.1.pdb #2/? ASP 19 O    0.878    2.302
+ERman1.pdb #1/A ALA 590 CA  ss.1.pdb #2/? SER 20 CA   0.722    2.678
+ERman1.pdb #1/A LYS 588 O   ss.1.pdb #2/? ASP 19 C    0.704    2.476

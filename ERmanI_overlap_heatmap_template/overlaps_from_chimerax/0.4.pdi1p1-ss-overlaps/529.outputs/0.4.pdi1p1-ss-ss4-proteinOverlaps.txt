@@ -1,0 +1,10 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+2 clashes
+          atom1                      atom2           overlap  distance
+ERman1.pdb #1/A ALA 590 O   ss.4.pdb #5/? GLU 483 O   0.690    2.270
+ERman1.pdb #1/A ALA 590 CA  ss.4.pdb #5/? GLU 483 O   0.671    2.509

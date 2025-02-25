@@ -1,0 +1,36 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+28 clashes
+          atom1                       atom2            overlap  distance
+ERman1.pdb #1/A ALA 590 C   ss.10.pdb #11/? GLU 23 N    2.244    1.081
+ERman1.pdb #1/A ALA 590 CA  ss.10.pdb #11/? GLU 23 N    2.186    1.139
+ERman1.pdb #1/A ALA 590 C   ss.10.pdb #11/? GLU 23 CA   2.097    1.303
+ERman1.pdb #1/A ALA 590 O   ss.10.pdb #11/? GLU 23 CA   1.930    1.250
+ERman1.pdb #1/A ALA 590 N   ss.10.pdb #11/? ASN 22 N    1.866    1.384
+ERman1.pdb #1/A ASP 591 N   ss.10.pdb #11/? GLU 23 N    1.609    1.641
+ERman1.pdb #1/A ALA 590 CA  ss.10.pdb #11/? GLU 23 CA   1.461    1.939
+ERman1.pdb #1/A ALA 590 N   ss.10.pdb #11/? GLU 23 N    1.397    1.853
+ERman1.pdb #1/A LYS 588 C   ss.10.pdb #11/? ASN 22 CA   1.387    2.013
+ERman1.pdb #1/A ASP 591 N   ss.10.pdb #11/? ASN 22 C    1.312    2.013
+ERman1.pdb #1/A ALA 590 N   ss.10.pdb #11/? ASN 22 CA   1.281    2.044
+ERman1.pdb #1/A PRO 589 C   ss.10.pdb #11/? ASN 22 N    1.254    2.071
+ERman1.pdb #1/A ALA 590 N   ss.10.pdb #11/? PHE 21 C    1.250    2.075
+ERman1.pdb #1/A PRO 589 N   ss.10.pdb #11/? ASN 22 N    1.157    2.093
+ERman1.pdb #1/A ALA 590 C   ss.10.pdb #11/? ASN 22 C    1.130    2.270
+ERman1.pdb #1/A ALA 590 CA  ss.10.pdb #11/? ASN 22 C    1.093    2.307
+ERman1.pdb #1/A ALA 590 N   ss.10.pdb #11/? ASN 22 C    1.075    2.250
+ERman1.pdb #1/A PRO 589 CA  ss.10.pdb #11/? ASN 22 N    1.053    2.272
+ERman1.pdb #1/A ALA 590 CA  ss.10.pdb #11/? SER 20 O    1.012    2.168
+ERman1.pdb #1/A PRO 589 N   ss.10.pdb #11/? ASN 22 CA   0.984    2.341
+ERman1.pdb #1/A ASP 591 N   ss.10.pdb #11/? GLU 23 CA   0.976    2.349
+ERman1.pdb #1/A LYS 588 CA  ss.10.pdb #11/? ASN 22 CA   0.810    2.590
+ERman1.pdb #1/A LYS 588 O   ss.10.pdb #11/? ASN 22 CA   0.770    2.410
+ERman1.pdb #1/A ALA 590 CA  ss.10.pdb #11/? SER 20 C    0.739    2.661
+ERman1.pdb #1/A LYS 588 C   ss.10.pdb #11/? ASN 22 N    0.718    2.607
+ERman1.pdb #1/A PRO 589 C   ss.10.pdb #11/? ASN 22 CA   0.653    2.747
+ERman1.pdb #1/A ALA 590 CA  ss.10.pdb #11/? ASN 22 N    0.648    2.677
+ERman1.pdb #1/A ALA 590 C   ss.10.pdb #11/? GLU 23 C    0.631    2.769

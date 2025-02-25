@@ -1,0 +1,33 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+25 clashes
+          atom1                      atom2           overlap  distance
+ERman1.pdb #1/A PRO 589 O   ss.3.pdb #4/? ASP 19 O    2.602    0.358
+ERman1.pdb #1/A ALA 590 N   ss.3.pdb #4/? SER 20 CA   2.575    0.750
+ERman1.pdb #1/A PRO 589 C   ss.3.pdb #4/? ASP 19 C    2.478    0.922
+ERman1.pdb #1/A PRO 589 C   ss.3.pdb #4/? SER 20 N    2.267    1.058
+ERman1.pdb #1/A PRO 589 CA  ss.3.pdb #4/? ASP 19 C    2.035    1.365
+ERman1.pdb #1/A PRO 589 O   ss.3.pdb #4/? ASP 19 C    2.026    1.154
+ERman1.pdb #1/A PRO 589 CA  ss.3.pdb #4/? SER 20 N    2.025    1.300
+ERman1.pdb #1/A PRO 589 C   ss.3.pdb #4/? ASP 19 O    2.008    1.172
+ERman1.pdb #1/A ALA 590 N   ss.3.pdb #4/? SER 20 N    1.720    1.530
+ERman1.pdb #1/A ALA 590 CA  ss.3.pdb #4/? SER 20 CA   1.691    1.709
+ERman1.pdb #1/A PRO 589 C   ss.3.pdb #4/? SER 20 CA   1.679    1.721
+ERman1.pdb #1/A PRO 589 CA  ss.3.pdb #4/? ASP 19 CA   1.381    2.019
+ERman1.pdb #1/A ALA 590 N   ss.3.pdb #4/? SER 20 C    1.319    2.006
+ERman1.pdb #1/A ALA 590 N   ss.3.pdb #4/? ASP 19 C    1.106    2.219
+ERman1.pdb #1/A PRO 589 CA  ss.3.pdb #4/? ASP 19 N    1.086    2.239
+ERman1.pdb #1/A PRO 589 CA  ss.3.pdb #4/? THR 18 C    1.083    2.317
+ERman1.pdb #1/A PRO 589 CA  ss.3.pdb #4/? THR 18 O    1.044    2.136
+ERman1.pdb #1/A PRO 589 N   ss.3.pdb #4/? SER 20 N    0.993    2.257
+ERman1.pdb #1/A PRO 589 N   ss.3.pdb #4/? THR 18 O    0.921    2.184
+ERman1.pdb #1/A PRO 589 C   ss.3.pdb #4/? ASP 19 CA   0.917    2.483
+ERman1.pdb #1/A PRO 589 CA  ss.3.pdb #4/? ASP 19 O    0.862    2.318
+ERman1.pdb #1/A PRO 589 O   ss.3.pdb #4/? ASP 19 CA   0.823    2.357
+ERman1.pdb #1/A PRO 589 CA  ss.3.pdb #4/? SER 20 CA   0.778    2.622
+ERman1.pdb #1/A LYS 588 CA  ss.3.pdb #4/? ASN 22 N    0.664    2.661
+ERman1.pdb #1/A ALA 590 CA  ss.3.pdb #4/? SER 20 C    0.640    2.760

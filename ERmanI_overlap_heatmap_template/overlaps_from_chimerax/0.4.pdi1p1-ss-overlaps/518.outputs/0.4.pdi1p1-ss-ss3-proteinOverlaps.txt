@@ -1,0 +1,547 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+539 clashes
+                atom1                            atom2            overlap  distance
+ERman1.pdb #1/A MET 553 N               ss.3.pdb #4/? PHE 21 C     2.816    0.509
+ERman1.pdb #1/A ASP 523 CA              ss.3.pdb #4/? ASN 92 N     2.761    0.564
+ERman1.pdb #1/A VAL 587 C (alt loc A)   ss.3.pdb #4/? GLN 117 N    2.734    0.591
+ERman1.pdb #1/A GLU 503 CA              ss.3.pdb #4/? LEU 87 N     2.696    0.629
+ERman1.pdb #1/A PRO 580 C               ss.3.pdb #4/? PRO 104 C    2.676    0.724
+ERman1.pdb #1/A PRO 580 C               ss.3.pdb #4/? ARG 105 N    2.671    0.654
+ERman1.pdb #1/A THR 600 N               ss.3.pdb #4/? SER 27 CA    2.650    0.675
+ERman1.pdb #1/A MET 522 O               ss.3.pdb #4/? LYS 91 CA    2.631    0.549
+ERman1.pdb #1/A CYS 527 C               ss.3.pdb #4/? GLN 26 CA    2.619    0.781
+ERman1.pdb #1/A THR 565 C               ss.3.pdb #4/? VAL 58 O     2.586    0.594
+ERman1.pdb #1/A PRO 580 O               ss.3.pdb #4/? PRO 104 C    2.586    0.594
+ERman1.pdb #1/A SER 505 C               ss.3.pdb #4/? PHE 35 N     2.563    0.762
+ERman1.pdb #1/A MET 522 C               ss.3.pdb #4/? LYS 91 CA    2.517    0.883
+ERman1.pdb #1/A LEU 567 O               ss.3.pdb #4/? NLN 61 O     2.499    0.461
+ERman1.pdb #1/A VAL 644 O               ss.3.pdb #4/? LYS 60 CA    2.494    0.686
+ERman1.pdb #1/A GLY 581 CA              ss.3.pdb #4/? THR 106 N    2.474    0.851
+ERman1.pdb #1/A MET 563 C               ss.3.pdb #4/? LEU 57 C     2.473    0.927
+ERman1.pdb #1/A LYS 588 CA              ss.3.pdb #4/? LYS 116 O    2.416    0.764
+ERman1.pdb #1/A GLU 503 N               ss.3.pdb #4/? LEU 87 N     2.393    0.857
+ERman1.pdb #1/A LEU 567 C               ss.3.pdb #4/? NLN 61 O     2.379    0.801
+ERman1.pdb #1/A GLY 581 N               ss.3.pdb #4/? ARG 105 CA   2.371    0.954
+ERman1.pdb #1/A LYS 588 C               ss.3.pdb #4/? LYS 116 O    2.359    0.821
+ERman1.pdb #1/A ASP 591 C               ss.3.pdb #4/? SER 118 O    2.345    0.835
+ERman1.pdb #1/A ASP 591 N               ss.3.pdb #4/? GLN 119 CA   2.331    0.994
+ERman1.pdb #1/A MET 563 O               ss.3.pdb #4/? LEU 57 C     2.318    0.862
+ERman1.pdb #1/A ASP 523 C               ss.3.pdb #4/? ASN 92 N     2.318    1.007
+ERman1.pdb #1/A LYS 588 N               ss.3.pdb #4/? GLN 117 N    2.307    0.943
+ERman1.pdb #1/A THR 600 N               ss.3.pdb #4/? SER 27 C     2.281    1.044
+ERman1.pdb #1/A VAL 526 CA              ss.3.pdb #4/? SER 93 C     2.280    1.120
+ERman1.pdb #1/A GLU 599 C               ss.3.pdb #4/? SER 27 CA    2.268    1.132
+ERman1.pdb #1/A LYS 588 CA              ss.3.pdb #4/? LYS 116 C    2.260    1.140
+ERman1.pdb #1/A SER 505 C               ss.3.pdb #4/? PHE 35 CA    2.254    1.146
+ERman1.pdb #1/A LYS 588 N               ss.3.pdb #4/? GLN 117 CA   2.249    1.076
+ERman1.pdb #1/A GLU 564 N (alt loc A)   ss.3.pdb #4/? LEU 57 CA    2.238    1.087
+ERman1.pdb #1/A ASP 591 CA              ss.3.pdb #4/? SER 118 O    2.190    0.990
+ERman1.pdb #1/A MET 553 N               ss.3.pdb #4/? PHE 21 CA    2.184    1.141
+ERman1.pdb #1/A ASP 523 N               ss.3.pdb #4/? LYS 91 C     2.168    1.157
+ERman1.pdb #1/A ASN 575 CA              ss.3.pdb #4/? ASP 100 C    2.160    1.240
+ERman1.pdb #1/A VAL 526 CA              ss.3.pdb #4/? ASP 94 N     2.103    1.222
+ERman1.pdb #1/A LYS 506 N               ss.3.pdb #4/? PHE 35 CA    2.103    1.222
+ERman1.pdb #1/A ASP 591 C               ss.3.pdb #4/? SER 118 C    2.089    1.311
+ERman1.pdb #1/A VAL 526 N               ss.3.pdb #4/? SER 93 C     2.087    1.238
+ERman1.pdb #1/A VAL 510 O               ss.3.pdb #4/? ASN 97 C     2.085    1.095
+ERman1.pdb #1/A VAL 526 C               ss.3.pdb #4/? SER 93 O     2.074    1.106
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? GLU 59 N     2.066    1.259
+ERman1.pdb #1/A MET 522 C               ss.3.pdb #4/? LYS 91 C     2.060    1.340
+ERman1.pdb #1/A THR 600 CA              ss.3.pdb #4/? SER 27 CA    2.052    1.348
+ERman1.pdb #1/A PRO 580 CA              ss.3.pdb #4/? ARG 105 N    2.052    1.273
+ERman1.pdb #1/A SER 502 C               ss.3.pdb #4/? SER 86 O     2.051    1.129
+ERman1.pdb #1/A ASP 523 CA              ss.3.pdb #4/? ASN 92 CA    2.043    1.357
+ERman1.pdb #1/A VAL 510 O               ss.3.pdb #4/? ASN 97 O     2.041    0.919
+ERman1.pdb #1/A SER 502 C               ss.3.pdb #4/? SER 86 C     2.031    1.369
+ERman1.pdb #1/A VAL 526 C               ss.3.pdb #4/? SER 93 C     2.030    1.370
+ERman1.pdb #1/A GLY 581 N               ss.3.pdb #4/? ARG 105 N    2.016    1.234
+ERman1.pdb #1/A LEU 567 O               ss.3.pdb #4/? NLN 61 C     2.016    1.164
+ERman1.pdb #1/A CYS 527 O               ss.3.pdb #4/? GLN 26 CA    2.012    1.168
+ERman1.pdb #1/A SER 502 O               ss.3.pdb #4/? SER 86 O     2.009    0.951
+ERman1.pdb #1/A GLU 564 O (alt loc A)   ss.3.pdb #4/? GLU 59 N     2.006    0.699
+ERman1.pdb #1/A LYS 506 N               ss.3.pdb #4/? PHE 35 N     2.002    1.248
+ERman1.pdb #1/A VAL 510 C               ss.3.pdb #4/? ASN 97 C     2.002    1.398
+ERman1.pdb #1/A ASP 591 CA              ss.3.pdb #4/? SER 118 C    1.994    1.406
+ERman1.pdb #1/A PRO 580 O               ss.3.pdb #4/? PRO 104 O    1.982    0.978
+ERman1.pdb #1/A ALA 590 C               ss.3.pdb #4/? GLN 119 CA   1.978    1.422
+ERman1.pdb #1/A LYS 588 N               ss.3.pdb #4/? LYS 116 C    1.972    1.353
+ERman1.pdb #1/A MET 563 C               ss.3.pdb #4/? LEU 57 CA    1.966    1.434
+ERman1.pdb #1/A MET 563 C               ss.3.pdb #4/? LEU 57 O     1.950    1.230
+ERman1.pdb #1/A ASN 575 CA              ss.3.pdb #4/? TYR 101 N    1.946    1.379
+ERman1.pdb #1/A GLU 503 N               ss.3.pdb #4/? SER 86 C     1.938    1.387
+ERman1.pdb #1/A ASN 575 CA              ss.3.pdb #4/? ASP 100 CA   1.934    1.466
+ERman1.pdb #1/A LEU 552 C               ss.3.pdb #4/? PHE 21 C     1.928    1.472
+ERman1.pdb #1/A GLY 581 N               ss.3.pdb #4/? ARG 105 C    1.919    1.406
+ERman1.pdb #1/A SER 505 O               ss.3.pdb #4/? PHE 35 CA    1.918    1.262
+ERman1.pdb #1/A GLY 511 N               ss.3.pdb #4/? ASN 97 CA    1.912    1.413
+ERman1.pdb #1/A GLU 503 N               ss.3.pdb #4/? LEU 87 CA    1.910    1.415
+ERman1.pdb #1/A ASP 591 N               ss.3.pdb #4/? GLN 119 N    1.901    1.349
+ERman1.pdb #1/A VAL 510 C               ss.3.pdb #4/? ASN 97 N     1.900    1.425
+ERman1.pdb #1/A GLU 503 CA              ss.3.pdb #4/? SER 86 C     1.895    1.505
+ERman1.pdb #1/A VAL 510 C               ss.3.pdb #4/? ASN 97 CA    1.890    1.510
+ERman1.pdb #1/A GLN 558 O               ss.3.pdb #4/? THR 63 C     1.884    1.296
+ERman1.pdb #1/A THR 565 N               ss.3.pdb #4/? LYS 60 N     1.879    1.371
+ERman1.pdb #1/A GLY 511 CA              ss.3.pdb #4/? ASN 97 CA    1.857    1.543
+ERman1.pdb #1/A CYS 527 CA              ss.3.pdb #4/? GLN 26 CA    1.854    1.546
+ERman1.pdb #1/A GLU 564 N (alt loc A)   ss.3.pdb #4/? LEU 57 C     1.847    1.478
+ERman1.pdb #1/A VAL 587 C (alt loc A)   ss.3.pdb #4/? GLN 117 CA   1.843    1.557
+ERman1.pdb #1/A THR 565 CA              ss.3.pdb #4/? VAL 58 O     1.842    1.338
+ERman1.pdb #1/A SER 502 O               ss.3.pdb #4/? SER 86 C     1.841    1.339
+ERman1.pdb #1/A LYS 506 CA              ss.3.pdb #4/? PHE 35 CA    1.837    1.563
+ERman1.pdb #1/A GLY 581 CA              ss.3.pdb #4/? ARG 105 C    1.832    1.568
+ERman1.pdb #1/A GLU 503 C               ss.3.pdb #4/? LEU 87 CA    1.827    1.573
+ERman1.pdb #1/A VAL 587 C (alt loc A)   ss.3.pdb #4/? LYS 116 C    1.800    1.600
+ERman1.pdb #1/A MET 553 CA              ss.3.pdb #4/? PHE 21 C     1.796    1.604
+ERman1.pdb #1/A SER 505 CA              ss.3.pdb #4/? GLU 34 C     1.787    1.613
+ERman1.pdb #1/A SER 505 C               ss.3.pdb #4/? GLU 34 C     1.774    1.626
+ERman1.pdb #1/A ASP 523 CA              ss.3.pdb #4/? LYS 91 C     1.768    1.632
+ERman1.pdb #1/A LEU 567 N               ss.3.pdb #4/? NLN 61 CA    1.767    1.558
+ERman1.pdb #1/A VAL 526 CA              ss.3.pdb #4/? SER 93 O     1.766    1.414
+ERman1.pdb #1/A LYS 588 C               ss.3.pdb #4/? LYS 116 C    1.755    1.645
+ERman1.pdb #1/A GLN 550 CA              ss.3.pdb #4/? THR 18 O     1.741    1.439
+ERman1.pdb #1/A CYS 527 N               ss.3.pdb #4/? SER 93 C     1.735    1.590
+ERman1.pdb #1/A THR 565 C               ss.3.pdb #4/? VAL 58 C     1.734    1.666
+ERman1.pdb #1/A PHE 574 O               ss.3.pdb #4/? ILE 99 C     1.729    1.451
+ERman1.pdb #1/A SER 505 C               ss.3.pdb #4/? PHE 35 C     1.724    1.676
+ERman1.pdb #1/A CYS 527 CA              ss.3.pdb #4/? GLN 26 N     1.716    1.609
+ERman1.pdb #1/A VAL 644 O               ss.3.pdb #4/? LYS 60 C     1.714    1.466
+ERman1.pdb #1/A VAL 526 N               ss.3.pdb #4/? SER 93 CA    1.714    1.611
+ERman1.pdb #1/A LEU 567 C               ss.3.pdb #4/? NLN 61 C     1.701    1.699
+ERman1.pdb #1/A VAL 526 CA              ss.3.pdb #4/? ASP 94 CA    1.701    1.699
+ERman1.pdb #1/A GLU 564 CA (alt loc A)  ss.3.pdb #4/? THR 56 O     1.695    1.485
+ERman1.pdb #1/A VAL 644 C               ss.3.pdb #4/? LYS 60 CA    1.689    1.711
+ERman1.pdb #1/A GLU 503 CA              ss.3.pdb #4/? LEU 87 CA    1.684    1.716
+ERman1.pdb #1/A SER 505 CA              ss.3.pdb #4/? PHE 35 N     1.684    1.641
+ERman1.pdb #1/A PRO 580 O               ss.3.pdb #4/? PRO 104 CA   1.673    1.507
+ERman1.pdb #1/A MET 553 CA              ss.3.pdb #4/? PHE 21 CA    1.673    1.727
+ERman1.pdb #1/A LEU 552 C               ss.3.pdb #4/? PHE 21 O     1.668    1.512
+ERman1.pdb #1/A MET 553 CA              ss.3.pdb #4/? PHE 21 O     1.662    1.518
+ERman1.pdb #1/A GLU 503 O               ss.3.pdb #4/? LEU 87 CA    1.655    1.525
+ERman1.pdb #1/A ASP 523 N               ss.3.pdb #4/? ASN 92 N     1.647    1.603
+ERman1.pdb #1/A ASP 523 C               ss.3.pdb #4/? LYS 91 C     1.645    1.755
+ERman1.pdb #1/A GLN 562 N               ss.3.pdb #4/? LEU 64 N     1.643    1.607
+ERman1.pdb #1/A PRO 580 C               ss.3.pdb #4/? ARG 105 CA   1.634    1.766
+ERman1.pdb #1/A GLU 564 CA (alt loc A)  ss.3.pdb #4/? LEU 57 CA    1.610    1.790
+ERman1.pdb #1/A ARG 592 N               ss.3.pdb #4/? SER 118 C    1.603    1.722
+ERman1.pdb #1/A ASP 523 C               ss.3.pdb #4/? ASN 92 CA    1.599    1.801
+ERman1.pdb #1/A ASN 575 C               ss.3.pdb #4/? ASP 100 CA   1.598    1.802
+ERman1.pdb #1/A HIS 524 C               ss.3.pdb #4/? SER 93 N     1.598    1.727
+ERman1.pdb #1/A CYS 527 CA              ss.3.pdb #4/? ILE 25 C     1.597    1.803
+ERman1.pdb #1/A ASP 591 N               ss.3.pdb #4/? SER 118 C    1.592    1.733
+ERman1.pdb #1/A VAL 644 CA              ss.3.pdb #4/? LYS 60 O     1.586    1.594
+ERman1.pdb #1/A PRO 580 C               ss.3.pdb #4/? PRO 104 O    1.582    1.598
+ERman1.pdb #1/A THR 565 CA              ss.3.pdb #4/? VAL 58 C     1.582    1.818
+ERman1.pdb #1/A ASP 591 N               ss.3.pdb #4/? GLN 119 C    1.582    1.743
+ERman1.pdb #1/A THR 565 N               ss.3.pdb #4/? GLU 59 C     1.582    1.743
+ERman1.pdb #1/A THR 565 CA              ss.3.pdb #4/? GLU 59 C     1.582    1.818
+ERman1.pdb #1/A PRO 580 CA              ss.3.pdb #4/? PRO 104 C    1.575    1.825
+ERman1.pdb #1/A VAL 510 CA              ss.3.pdb #4/? VAL 95 O     1.573    1.607
+ERman1.pdb #1/A VAL 587 CA (alt loc A)  ss.3.pdb #4/? GLN 117 CA   1.561    1.839
+ERman1.pdb #1/A GLY 581 O               ss.3.pdb #4/? THR 106 O    1.546    1.414
+ERman1.pdb #1/A THR 565 O               ss.3.pdb #4/? VAL 58 O     1.542    1.418
+ERman1.pdb #1/A HIS 524 C               ss.3.pdb #4/? SER 93 CA    1.542    1.858
+ERman1.pdb #1/A MET 563 O               ss.3.pdb #4/? VAL 58 N     1.541    1.164
+ERman1.pdb #1/A GLY 511 N               ss.3.pdb #4/? ASN 97 C     1.539    1.786
+ERman1.pdb #1/A ALA 590 CA              ss.3.pdb #4/? GLN 119 CA   1.536    1.864
+ERman1.pdb #1/A LEU 525 N               ss.3.pdb #4/? SER 93 N     1.533    1.717
+ERman1.pdb #1/A VAL 510 O               ss.3.pdb #4/? ASN 97 CA    1.532    1.648
+ERman1.pdb #1/A VAL 587 O (alt loc A)   ss.3.pdb #4/? LYS 116 C    1.532    1.648
+ERman1.pdb #1/A MET 522 CA              ss.3.pdb #4/? LYS 91 N     1.530    1.795
+ERman1.pdb #1/A MET 563 N               ss.3.pdb #4/? ILE 62 O     1.528    1.177
+ERman1.pdb #1/A THR 600 CA              ss.3.pdb #4/? SER 27 C     1.524    1.876
+ERman1.pdb #1/A GLY 581 N               ss.3.pdb #4/? THR 106 N    1.522    1.728
+ERman1.pdb #1/A GLN 550 CA              ss.3.pdb #4/? THR 18 C     1.520    1.880
+ERman1.pdb #1/A HIS 524 O               ss.3.pdb #4/? SER 93 CA    1.517    1.663
+ERman1.pdb #1/A PHE 574 O               ss.3.pdb #4/? ASP 100 N    1.482    1.223
+ERman1.pdb #1/A GLN 550 O               ss.3.pdb #4/? ALA 17 O     1.482    1.478
+ERman1.pdb #1/A GLU 503 C               ss.3.pdb #4/? LEU 87 N     1.479    1.846
+ERman1.pdb #1/A VAL 526 C               ss.3.pdb #4/? ASP 94 N     1.471    1.854
+ERman1.pdb #1/A GLU 564 CA (alt loc A)  ss.3.pdb #4/? LEU 57 C     1.464    1.936
+ERman1.pdb #1/A MET 553 N               ss.3.pdb #4/? ASN 22 N     1.461    1.789
+ERman1.pdb #1/A SER 505 CA              ss.3.pdb #4/? GLU 34 CA    1.455    1.945
+ERman1.pdb #1/A GLN 562 CA              ss.3.pdb #4/? LEU 64 N     1.453    1.872
+ERman1.pdb #1/A ASP 591 C               ss.3.pdb #4/? SER 118 CA   1.453    1.947
+ERman1.pdb #1/A GLU 599 O               ss.3.pdb #4/? SER 27 CA    1.447    1.733
+ERman1.pdb #1/A GLN 550 C               ss.3.pdb #4/? ALA 17 O     1.442    1.738
+ERman1.pdb #1/A GLY 566 N               ss.3.pdb #4/? VAL 58 C     1.441    1.884
+ERman1.pdb #1/A MET 522 CA              ss.3.pdb #4/? LYS 91 CA    1.435    1.965
+ERman1.pdb #1/A GLY 566 N               ss.3.pdb #4/? VAL 58 CA    1.433    1.892
+ERman1.pdb #1/A CYS 527 C               ss.3.pdb #4/? GLN 26 N     1.426    1.899
+ERman1.pdb #1/A THR 565 N               ss.3.pdb #4/? GLU 59 N     1.424    1.826
+ERman1.pdb #1/A GLU 503 N               ss.3.pdb #4/? LEU 87 C     1.420    1.905
+ERman1.pdb #1/A GLU 599 C               ss.3.pdb #4/? SER 27 N     1.418    1.907
+ERman1.pdb #1/A MET 522 C               ss.3.pdb #4/? LYS 91 N     1.417    1.908
+ERman1.pdb #1/A ALA 590 N               ss.3.pdb #4/? GLN 119 CA   1.416    1.909
+ERman1.pdb #1/A GLN 550 N               ss.3.pdb #4/? THR 18 O     1.414    1.291
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? VAL 58 C     1.414    1.986
+ERman1.pdb #1/A GLU 564 CA (alt loc A)  ss.3.pdb #4/? THR 56 C     1.407    1.993
+ERman1.pdb #1/A GLU 564 O (alt loc A)   ss.3.pdb #4/? VAL 58 C     1.406    1.774
+ERman1.pdb #1/A MET 563 O               ss.3.pdb #4/? LEU 57 O     1.406    1.554
+ERman1.pdb #1/A LYS 506 N               ss.3.pdb #4/? PHE 35 C     1.405    1.920
+ERman1.pdb #1/A THR 565 CA              ss.3.pdb #4/? GLU 59 CA    1.401    1.999
+ERman1.pdb #1/A ASP 523 C               ss.3.pdb #4/? SER 93 N     1.399    1.926
+ERman1.pdb #1/A CYS 527 CA              ss.3.pdb #4/? ILE 25 O     1.398    1.782
+ERman1.pdb #1/A ALA 590 C               ss.3.pdb #4/? GLN 119 C    1.396    2.004
+ERman1.pdb #1/A SER 502 CA              ss.3.pdb #4/? LYS 88 N     1.391    1.934
+ERman1.pdb #1/A PRO 580 N               ss.3.pdb #4/? GLY 103 O    1.390    1.715
+ERman1.pdb #1/A GLY 511 CA              ss.3.pdb #4/? SER 98 N     1.390    1.935
+ERman1.pdb #1/A ASN 575 N               ss.3.pdb #4/? TYR 101 N    1.388    1.862
+ERman1.pdb #1/A GLN 579 C               ss.3.pdb #4/? GLY 103 O    1.385    1.795
+ERman1.pdb #1/A VAL 587 O (alt loc A)   ss.3.pdb #4/? LYS 116 CA   1.384    1.796
+ERman1.pdb #1/A GLY 511 CA              ss.3.pdb #4/? ASN 97 C     1.383    2.017
+ERman1.pdb #1/A PHE 528 N               ss.3.pdb #4/? GLN 26 CA    1.379    1.946
+ERman1.pdb #1/A VAL 587 CA (alt loc A)  ss.3.pdb #4/? GLN 117 N    1.374    1.951
+ERman1.pdb #1/A GLY 581 N               ss.3.pdb #4/? PRO 104 C    1.373    1.952
+ERman1.pdb #1/A LEU 525 C               ss.3.pdb #4/? SER 93 CA    1.372    2.028
+ERman1.pdb #1/A LEU 567 N               ss.3.pdb #4/? NLN 61 C     1.369    1.956
+ERman1.pdb #1/A LYS 588 CA              ss.3.pdb #4/? GLN 117 N    1.364    1.961
+ERman1.pdb #1/A GLN 558 O               ss.3.pdb #4/? THR 63 CA    1.356    1.824
+ERman1.pdb #1/A PHE 574 C               ss.3.pdb #4/? ILE 99 C     1.355    2.045
+ERman1.pdb #1/A VAL 510 CA              ss.3.pdb #4/? NLN 96 C     1.350    2.050
+ERman1.pdb #1/A GLN 550 CA              ss.3.pdb #4/? SER 20 N     1.348    1.977
+ERman1.pdb #1/A LEU 576 N               ss.3.pdb #4/? ASP 100 CA   1.347    1.978
+ERman1.pdb #1/A GLY 511 N               ss.3.pdb #4/? ASN 97 N     1.343    1.907
+ERman1.pdb #1/A ASP 523 O               ss.3.pdb #4/? LYS 91 C     1.341    1.839
+ERman1.pdb #1/A MET 553 N               ss.3.pdb #4/? PHE 21 O     1.330    1.375
+ERman1.pdb #1/A SER 502 C               ss.3.pdb #4/? LEU 87 N     1.330    1.995
+ERman1.pdb #1/A ASN 575 N               ss.3.pdb #4/? ASP 100 CA   1.327    1.998
+ERman1.pdb #1/A GLN 562 N               ss.3.pdb #4/? THR 63 C     1.323    2.002
+ERman1.pdb #1/A PHE 574 C               ss.3.pdb #4/? ILE 99 O     1.323    1.857
+ERman1.pdb #1/A PRO 580 C               ss.3.pdb #4/? PRO 104 CA   1.320    2.080
+ERman1.pdb #1/A LYS 588 N               ss.3.pdb #4/? GLN 117 C    1.319    2.006
+ERman1.pdb #1/A THR 565 N               ss.3.pdb #4/? VAL 58 C     1.318    2.007
+ERman1.pdb #1/A MET 522 O               ss.3.pdb #4/? LYS 91 C     1.314    1.866
+ERman1.pdb #1/A GLN 558 O               ss.3.pdb #4/? THR 63 O     1.314    1.646
+ERman1.pdb #1/A VAL 510 C               ss.3.pdb #4/? ASN 97 O     1.309    1.871
+ERman1.pdb #1/A HIS 524 CA              ss.3.pdb #4/? ASP 29 CA    1.309    2.091
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? GLU 59 CA    1.309    2.091
+ERman1.pdb #1/A VAL 510 CA              ss.3.pdb #4/? ASN 97 N     1.308    2.017
+ERman1.pdb #1/A LEU 552 O               ss.3.pdb #4/? PHE 21 O     1.306    1.654
+ERman1.pdb #1/A LYS 588 O               ss.3.pdb #4/? LYS 116 O    1.305    1.655
+ERman1.pdb #1/A LEU 567 CA              ss.3.pdb #4/? NLN 61 C     1.300    2.100
+ERman1.pdb #1/A LEU 525 C               ss.3.pdb #4/? SER 93 C     1.298    2.102
+ERman1.pdb #1/A ALA 520 CA              ss.3.pdb #4/? ILE 99 CA    1.291    2.109
+ERman1.pdb #1/A ASP 523 N               ss.3.pdb #4/? LYS 91 CA    1.289    2.036
+ERman1.pdb #1/A ASN 560 C               ss.3.pdb #4/? THR 63 CA    1.283    2.117
+ERman1.pdb #1/A VAL 526 N               ss.3.pdb #4/? ASP 94 N     1.282    1.968
+ERman1.pdb #1/A SER 502 O               ss.3.pdb #4/? SER 86 CA    1.276    1.904
+ERman1.pdb #1/A LEU 525 N               ss.3.pdb #4/? ASN 92 C     1.274    2.051
+ERman1.pdb #1/A GLU 564 O (alt loc A)   ss.3.pdb #4/? GLU 59 CA    1.271    1.909
+ERman1.pdb #1/A ASN 575 N               ss.3.pdb #4/? ASP 100 C    1.267    2.058
+ERman1.pdb #1/A ASP 591 CA              ss.3.pdb #4/? GLN 119 N    1.266    2.059
+ERman1.pdb #1/A ASN 560 O               ss.3.pdb #4/? ILE 62 C     1.263    1.917
+ERman1.pdb #1/A THR 565 CA              ss.3.pdb #4/? GLU 59 N     1.259    2.066
+ERman1.pdb #1/A VAL 587 O (alt loc A)   ss.3.pdb #4/? GLN 117 N    1.256    1.449
+ERman1.pdb #1/A GLY 581 CA              ss.3.pdb #4/? THR 106 CA   1.250    2.150
+ERman1.pdb #1/A LEU 567 CA              ss.3.pdb #4/? NLN 61 CA    1.246    2.154
+ERman1.pdb #1/A GLU 564 CA (alt loc A)  ss.3.pdb #4/? LEU 57 N     1.245    2.080
+ERman1.pdb #1/A ASP 523 C               ss.3.pdb #4/? ASN 92 C     1.239    2.161
+ERman1.pdb #1/A GLY 511 C               ss.3.pdb #4/? ASN 97 CA    1.238    2.162
+ERman1.pdb #1/A CYS 527 C               ss.3.pdb #4/? GLN 26 C     1.235    2.165
+ERman1.pdb #1/A VAL 644 C               ss.3.pdb #4/? LYS 60 C     1.235    2.165
+ERman1.pdb #1/A MET 559 C               ss.3.pdb #4/? THR 63 N     1.227    2.098
+ERman1.pdb #1/A VAL 526 C               ss.3.pdb #4/? ASP 94 CA    1.225    2.175
+ERman1.pdb #1/A VAL 526 N               ss.3.pdb #4/? SER 93 N     1.223    2.027
+ERman1.pdb #1/A THR 565 N               ss.3.pdb #4/? GLU 59 CA    1.221    2.104
+ERman1.pdb #1/A PHE 574 O               ss.3.pdb #4/? ASP 100 CA   1.216    1.964
+ERman1.pdb #1/A GLN 579 CA              ss.3.pdb #4/? GLY 103 O    1.216    1.964
+ERman1.pdb #1/A GLU 554 N               ss.3.pdb #4/? PHE 21 CA    1.215    2.110
+ERman1.pdb #1/A PHE 574 C               ss.3.pdb #4/? ASP 100 CA   1.213    2.187
+ERman1.pdb #1/A LEU 552 C               ss.3.pdb #4/? PHE 21 CA    1.213    2.187
+ERman1.pdb #1/A GLU 599 CA              ss.3.pdb #4/? GLN 26 O     1.209    1.971
+ERman1.pdb #1/A SER 505 O               ss.3.pdb #4/? PHE 35 C     1.207    1.973
+ERman1.pdb #1/A HIS 524 N               ss.3.pdb #4/? ASN 92 N     1.206    2.044
+ERman1.pdb #1/A THR 600 N               ss.3.pdb #4/? SER 27 N     1.206    2.044
+ERman1.pdb #1/A PRO 530 CA              ss.3.pdb #4/? ASN 22 C     1.201    2.199
+ERman1.pdb #1/A ALA 520 CA              ss.3.pdb #4/? SER 98 C     1.197    2.203
+ERman1.pdb #1/A LYS 506 C               ss.3.pdb #4/? PHE 35 CA    1.197    2.203
+ERman1.pdb #1/A PHE 574 C               ss.3.pdb #4/? ASP 100 N    1.196    2.129
+ERman1.pdb #1/A ASP 523 O               ss.3.pdb #4/? SER 93 N     1.194    1.511
+ERman1.pdb #1/A VAL 510 C               ss.3.pdb #4/? NLN 96 C     1.194    2.206
+ERman1.pdb #1/A GLN 562 N               ss.3.pdb #4/? THR 63 CA    1.189    2.136
+ERman1.pdb #1/A MET 559 CA              ss.3.pdb #4/? VAL 31 CA    1.185    2.215
+ERman1.pdb #1/A GLY 581 CA              ss.3.pdb #4/? ARG 105 CA   1.180    2.220
+ERman1.pdb #1/A ARG 592 N               ss.3.pdb #4/? SER 118 O    1.180    1.525
+ERman1.pdb #1/A GLU 599 C               ss.3.pdb #4/? SER 27 C     1.180    2.220
+ERman1.pdb #1/A CYS 527 N               ss.3.pdb #4/? SER 93 CA    1.179    2.146
+ERman1.pdb #1/A MET 563 CA              ss.3.pdb #4/? ILE 62 O     1.179    2.001
+ERman1.pdb #1/A LEU 567 CA              ss.3.pdb #4/? NLN 61 O     1.176    2.004
+ERman1.pdb #1/A VAL 510 CA              ss.3.pdb #4/? VAL 95 C     1.174    2.226
+ERman1.pdb #1/A ALA 590 C               ss.3.pdb #4/? PRO 120 N    1.169    2.156
+ERman1.pdb #1/A ASN 575 O               ss.3.pdb #4/? LEU 87 O     1.161    1.799
+ERman1.pdb #1/A MET 553 C               ss.3.pdb #4/? PHE 21 CA    1.161    2.239
+ERman1.pdb #1/A VAL 644 C               ss.3.pdb #4/? LYS 60 O     1.160    2.020
+ERman1.pdb #1/A MET 563 N               ss.3.pdb #4/? ILE 62 C     1.156    2.169
+ERman1.pdb #1/A LEU 525 C               ss.3.pdb #4/? SER 93 O     1.153    2.027
+ERman1.pdb #1/A GLU 599 C               ss.3.pdb #4/? GLN 26 C     1.151    2.249
+ERman1.pdb #1/A GLY 511 N               ss.3.pdb #4/? SER 98 N     1.149    2.101
+ERman1.pdb #1/A MET 522 C               ss.3.pdb #4/? LYS 91 O     1.148    2.032
+ERman1.pdb #1/A PHE 574 CA              ss.3.pdb #4/? ILE 89 N     1.148    2.177
+ERman1.pdb #1/A ARG 561 N               ss.3.pdb #4/? THR 63 CA    1.142    2.183
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? LYS 60 N     1.142    2.183
+ERman1.pdb #1/A SER 505 O               ss.3.pdb #4/? GLU 34 C     1.141    2.039
+ERman1.pdb #1/A LEU 525 O               ss.3.pdb #4/? SER 93 O     1.141    1.819
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? LEU 57 C     1.140    2.260
+ERman1.pdb #1/A MET 563 C               ss.3.pdb #4/? VAL 58 N     1.137    2.188
+ERman1.pdb #1/A LYS 588 C               ss.3.pdb #4/? LYS 116 CA   1.137    2.263
+ERman1.pdb #1/A THR 600 CA              ss.3.pdb #4/? SER 27 N     1.133    2.192
+ERman1.pdb #1/A PRO 580 CA              ss.3.pdb #4/? ARG 105 CA   1.131    2.269
+ERman1.pdb #1/A PHE 574 CA              ss.3.pdb #4/? ILE 99 O     1.128    2.052
+ERman1.pdb #1/A VAL 526 N               ss.3.pdb #4/? ASN 92 C     1.125    2.200
+ERman1.pdb #1/A PRO 589 N               ss.3.pdb #4/? LYS 116 O    1.116    1.989
+ERman1.pdb #1/A ALA 520 CA              ss.3.pdb #4/? ILE 99 N     1.111    2.214
+ERman1.pdb #1/A ASN 560 C               ss.3.pdb #4/? THR 63 N     1.098    2.227
+ERman1.pdb #1/A LYS 588 O               ss.3.pdb #4/? GLN 119 N    1.094    1.611
+ERman1.pdb #1/A MET 553 CA              ss.3.pdb #4/? SER 20 O     1.093    2.087
+ERman1.pdb #1/A GLU 599 C               ss.3.pdb #4/? GLN 26 O     1.090    2.090
+ERman1.pdb #1/A ALA 520 CA              ss.3.pdb #4/? SER 98 O     1.090    2.090
+ERman1.pdb #1/A ASP 523 O               ss.3.pdb #4/? ASN 92 C     1.088    2.092
+ERman1.pdb #1/A VAL 510 N               ss.3.pdb #4/? VAL 95 O     1.083    1.622
+ERman1.pdb #1/A GLU 599 O               ss.3.pdb #4/? GLN 26 C     1.074    2.106
+ERman1.pdb #1/A ASP 523 O               ss.3.pdb #4/? LYS 91 O     1.070    1.890
+ERman1.pdb #1/A PRO 589 N               ss.3.pdb #4/? LYS 116 CA   1.060    2.265
+ERman1.pdb #1/A GLY 581 C               ss.3.pdb #4/? THR 106 N    1.058    2.267
+ERman1.pdb #1/A MET 563 O               ss.3.pdb #4/? LEU 57 CA    1.058    2.122
+ERman1.pdb #1/A MET 559 O               ss.3.pdb #4/? THR 63 N     1.055    1.650
+ERman1.pdb #1/A GLY 566 N               ss.3.pdb #4/? VAL 58 O     1.049    1.656
+ERman1.pdb #1/A SER 505 N               ss.3.pdb #4/? GLU 34 CA    1.049    2.276
+ERman1.pdb #1/A CYS 527 N               ss.3.pdb #4/? SER 93 O     1.044    1.661
+ERman1.pdb #1/A SER 502 CA              ss.3.pdb #4/? LYS 88 CA    1.043    2.357
+ERman1.pdb #1/A SER 505 O               ss.3.pdb #4/? GLU 34 O     1.042    1.918
+ERman1.pdb #1/A MET 563 O               ss.3.pdb #4/? VAL 58 CA    1.040    2.140
+ERman1.pdb #1/A LYS 588 CA              ss.3.pdb #4/? LYS 116 CA   1.038    2.362
+ERman1.pdb #1/A THR 600 N               ss.3.pdb #4/? SER 27 O     1.037    1.668
+ERman1.pdb #1/A PRO 580 CA              ss.3.pdb #4/? PRO 104 CA   1.034    2.366
+ERman1.pdb #1/A THR 600 N               ss.3.pdb #4/? HIE 28 N     1.028    2.222
+ERman1.pdb #1/A THR 565 CA              ss.3.pdb #4/? LYS 60 N     1.027    2.298
+ERman1.pdb #1/A VAL 587 N (alt loc A)   ss.3.pdb #4/? MET 114 CA   1.024    2.301
+ERman1.pdb #1/A LEU 525 N               ss.3.pdb #4/? SER 93 CA    1.023    2.302
+ERman1.pdb #1/A THR 600 C               ss.3.pdb #4/? SER 27 CA    1.017    2.383
+ERman1.pdb #1/A ASP 591 O               ss.3.pdb #4/? SER 118 CA   1.016    2.164
+ERman1.pdb #1/A GLY 581 C               ss.3.pdb #4/? THR 106 O    1.015    2.165
+ERman1.pdb #1/A ASP 591 CA              ss.3.pdb #4/? GLN 119 CA   1.011    2.389
+ERman1.pdb #1/A GLY 511 N               ss.3.pdb #4/? NLN 96 C     1.011    2.314
+ERman1.pdb #1/A ASN 560 O               ss.3.pdb #4/? ILE 62 O     1.010    1.950
+ERman1.pdb #1/A VAL 587 O (alt loc A)   ss.3.pdb #4/? LYS 116 N    1.010    1.695
+ERman1.pdb #1/A ARG 592 N               ss.3.pdb #4/? SER 118 CA   0.993    2.332
+ERman1.pdb #1/A ASP 591 CA              ss.3.pdb #4/? GLN 119 C    0.991    2.409
+ERman1.pdb #1/A HIS 524 CA              ss.3.pdb #4/? SER 93 N     0.988    2.337
+ERman1.pdb #1/A LYS 588 N               ss.3.pdb #4/? LYS 116 O    0.988    1.717
+ERman1.pdb #1/A MET 563 CA              ss.3.pdb #4/? LEU 57 O     0.986    2.194
+ERman1.pdb #1/A VAL 644 CA              ss.3.pdb #4/? LYS 60 C     0.983    2.417
+ERman1.pdb #1/A MET 563 CA              ss.3.pdb #4/? LEU 57 C     0.974    2.426
+ERman1.pdb #1/A MET 522 C               ss.3.pdb #4/? ASN 92 N     0.970    2.355
+ERman1.pdb #1/A HIS 524 CA              ss.3.pdb #4/? ASP 29 C     0.968    2.432
+ERman1.pdb #1/A ASP 591 O               ss.3.pdb #4/? SER 118 O    0.968    1.992
+ERman1.pdb #1/A LEU 552 C               ss.3.pdb #4/? ASN 22 N     0.967    2.358
+ERman1.pdb #1/A SER 505 O               ss.3.pdb #4/? PHE 35 N     0.964    1.741
+ERman1.pdb #1/A LEU 525 C               ss.3.pdb #4/? ASN 92 O     0.960    2.220
+ERman1.pdb #1/A VAL 585 CA              ss.3.pdb #4/? LEU 32 CA    0.953    2.447
+ERman1.pdb #1/A ALA 549 O               ss.3.pdb #4/? ASN 22 N     0.951    1.754
+ERman1.pdb #1/A MET 559 C               ss.3.pdb #4/? THR 63 CA    0.950    2.450
+ERman1.pdb #1/A CYS 527 O               ss.3.pdb #4/? GLN 26 N     0.948    1.757
+ERman1.pdb #1/A VAL 526 O               ss.3.pdb #4/? SER 93 O     0.946    2.014
+ERman1.pdb #1/A THR 565 CA              ss.3.pdb #4/? NLN 61 N     0.944    2.381
+ERman1.pdb #1/A VAL 510 C               ss.3.pdb #4/? SER 98 N     0.942    2.383
+ERman1.pdb #1/A VAL 644 O               ss.3.pdb #4/? LYS 60 O     0.942    2.018
+ERman1.pdb #1/A GLN 550 CA              ss.3.pdb #4/? ASP 19 C     0.941    2.459
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? THR 56 O     0.938    2.242
+ERman1.pdb #1/A PRO 530 CA              ss.3.pdb #4/? ASN 22 CA    0.936    2.464
+ERman1.pdb #1/A VAL 587 C (alt loc A)   ss.3.pdb #4/? GLN 117 C    0.936    2.464
+ERman1.pdb #1/A GLU 564 N (alt loc A)   ss.3.pdb #4/? LEU 57 O     0.934    1.771
+ERman1.pdb #1/A ASP 523 N               ss.3.pdb #4/? LYS 91 O     0.934    1.771
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? GLU 59 C     0.929    2.471
+ERman1.pdb #1/A HIS 524 CA              ss.3.pdb #4/? ASP 29 O     0.928    2.252
+ERman1.pdb #1/A MET 553 N               ss.3.pdb #4/? PHE 21 N     0.928    2.322
+ERman1.pdb #1/A SER 502 C               ss.3.pdb #4/? LEU 87 CA    0.926    2.474
+ERman1.pdb #1/A ASP 591 N               ss.3.pdb #4/? SER 118 O    0.925    1.780
+ERman1.pdb #1/A GLN 550 C               ss.3.pdb #4/? PHE 21 N     0.925    2.400
+ERman1.pdb #1/A GLU 503 CA              ss.3.pdb #4/? SER 86 CA    0.924    2.476
+ERman1.pdb #1/A SER 505 C               ss.3.pdb #4/? GLU 34 O     0.924    2.256
+ERman1.pdb #1/A GLY 581 O               ss.3.pdb #4/? THR 106 C    0.921    2.259
+ERman1.pdb #1/A ALA 520 C               ss.3.pdb #4/? ILE 99 N     0.917    2.408
+ERman1.pdb #1/A SER 505 C               ss.3.pdb #4/? PHE 35 O     0.915    2.265
+ERman1.pdb #1/A HIS 524 N               ss.3.pdb #4/? SER 93 N     0.911    2.339
+ERman1.pdb #1/A LYS 588 CA              ss.3.pdb #4/? GLN 117 CA   0.911    2.489
+ERman1.pdb #1/A GLN 562 CA              ss.3.pdb #4/? THR 63 C     0.910    2.490
+ERman1.pdb #1/A LEU 552 CA              ss.3.pdb #4/? PHE 21 C     0.903    2.497
+ERman1.pdb #1/A VAL 587 O (alt loc A)   ss.3.pdb #4/? PHE 113 O    0.902    2.058
+ERman1.pdb #1/A GLU 564 N (alt loc A)   ss.3.pdb #4/? LEU 57 N     0.901    2.349
+ERman1.pdb #1/A GLN 550 CA              ss.3.pdb #4/? ASP 19 N     0.900    2.425
+ERman1.pdb #1/A GLN 550 C               ss.3.pdb #4/? THR 18 O     0.900    2.280
+ERman1.pdb #1/A CYS 527 O               ss.3.pdb #4/? GLN 26 C     0.897    2.283
+ERman1.pdb #1/A MET 563 CA              ss.3.pdb #4/? LEU 57 CA    0.896    2.504
+ERman1.pdb #1/A ASN 575 C               ss.3.pdb #4/? ASP 100 C    0.893    2.507
+ERman1.pdb #1/A HIS 524 N               ss.3.pdb #4/? ASP 29 O     0.892    1.813
+ERman1.pdb #1/A LYS 506 CA              ss.3.pdb #4/? PHE 35 C     0.892    2.508
+ERman1.pdb #1/A PHE 574 C               ss.3.pdb #4/? ASP 100 C    0.891    2.509
+ERman1.pdb #1/A GLN 550 C               ss.3.pdb #4/? THR 18 C     0.891    2.509
+ERman1.pdb #1/A VAL 587 CA (alt loc A)  ss.3.pdb #4/? GLN 117 C    0.891    2.509
+ERman1.pdb #1/A SER 505 N               ss.3.pdb #4/? PHE 35 N     0.891    2.359
+ERman1.pdb #1/A GLN 550 N               ss.3.pdb #4/? THR 18 C     0.887    2.438
+ERman1.pdb #1/A PRO 580 N               ss.3.pdb #4/? PRO 104 C    0.882    2.443
+ERman1.pdb #1/A PHE 574 O               ss.3.pdb #4/? ILE 99 O     0.880    2.080
+ERman1.pdb #1/A LEU 525 CA              ss.3.pdb #4/? ASN 92 O     0.879    2.301
+ERman1.pdb #1/A ARG 500 CA (alt loc B)  ss.3.pdb #4/? HIE 79 O     0.878    2.302
+ERman1.pdb #1/A ASP 523 N               ss.3.pdb #4/? ASN 92 CA    0.872    2.453
+ERman1.pdb #1/A SER 502 C               ss.3.pdb #4/? SER 86 CA    0.870    2.530
+ERman1.pdb #1/A PRO 530 CA              ss.3.pdb #4/? GLU 23 N     0.869    2.456
+ERman1.pdb #1/A MET 553 CA              ss.3.pdb #4/? PHE 21 N     0.868    2.457
+ERman1.pdb #1/A GLN 558 C               ss.3.pdb #4/? THR 63 C     0.868    2.532
+ERman1.pdb #1/A GLU 599 CA              ss.3.pdb #4/? SER 27 CA    0.868    2.532
+ERman1.pdb #1/A LYS 506 CA              ss.3.pdb #4/? PHE 35 N     0.865    2.460
+ERman1.pdb #1/A ASP 591 O               ss.3.pdb #4/? SER 118 C    0.864    2.316
+ERman1.pdb #1/A PRO 580 O               ss.3.pdb #4/? ARG 105 N    0.862    1.843
+ERman1.pdb #1/A GLU 599 O               ss.3.pdb #4/? SER 27 N     0.858    1.847
+ERman1.pdb #1/A VAL 526 CA              ss.3.pdb #4/? SER 93 CA    0.858    2.542
+ERman1.pdb #1/A LEU 525 CA              ss.3.pdb #4/? ASN 92 C     0.853    2.547
+ERman1.pdb #1/A LYS 588 O               ss.3.pdb #4/? LYS 116 C    0.851    2.329
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? VAL 58 N     0.849    2.476
+ERman1.pdb #1/A MET 522 CA              ss.3.pdb #4/? LYS 91 C     0.848    2.552
+ERman1.pdb #1/A SER 502 CA              ss.3.pdb #4/? SER 86 O     0.846    2.334
+ERman1.pdb #1/A VAL 526 N               ss.3.pdb #4/? SER 93 O     0.845    1.860
+ERman1.pdb #1/A PRO 589 C               ss.3.pdb #4/? GLN 119 CA   0.845    2.555
+ERman1.pdb #1/A PHE 509 C               ss.3.pdb #4/? VAL 95 O     0.844    2.336
+ERman1.pdb #1/A GLN 550 O               ss.3.pdb #4/? PHE 21 N     0.840    1.865
+ERman1.pdb #1/A GLY 581 CA              ss.3.pdb #4/? THR 106 C    0.836    2.564
+ERman1.pdb #1/A VAL 510 N               ss.3.pdb #4/? VAL 95 C     0.836    2.489
+ERman1.pdb #1/A MET 522 O               ss.3.pdb #4/? LYS 91 N     0.836    1.869
+ERman1.pdb #1/A MET 553 CA              ss.3.pdb #4/? SER 20 C     0.833    2.567
+ERman1.pdb #1/A GLN 562 C               ss.3.pdb #4/? ILE 62 O     0.833    2.347
+ERman1.pdb #1/A GLN 550 CA              ss.3.pdb #4/? ALA 17 O     0.826    2.354
+ERman1.pdb #1/A GLY 566 CA              ss.3.pdb #4/? VAL 58 CA    0.824    2.576
+ERman1.pdb #1/A LEU 525 CA              ss.3.pdb #4/? SER 93 CA    0.821    2.579
+ERman1.pdb #1/A ASN 560 N               ss.3.pdb #4/? THR 63 CA    0.819    2.506
+ERman1.pdb #1/A ASN 560 CA              ss.3.pdb #4/? THR 63 N     0.818    2.507
+ERman1.pdb #1/A VAL 587 CA (alt loc A)  ss.3.pdb #4/? MET 114 O    0.816    2.364
+ERman1.pdb #1/A PRO 589 N               ss.3.pdb #4/? LYS 116 C    0.816    2.509
+ERman1.pdb #1/A VAL 510 CA              ss.3.pdb #4/? NLN 96 CA    0.805    2.595
+ERman1.pdb #1/A ASP 523 O               ss.3.pdb #4/? ASN 92 N     0.803    1.902
+ERman1.pdb #1/A GLU 503 N               ss.3.pdb #4/? SER 86 O     0.802    1.903
+ERman1.pdb #1/A LEU 552 O               ss.3.pdb #4/? PHE 21 C     0.802    2.378
+ERman1.pdb #1/A PRO 504 O               ss.3.pdb #4/? PHE 35 O     0.800    2.160
+ERman1.pdb #1/A SER 505 CA              ss.3.pdb #4/? PHE 35 C     0.800    2.600
+ERman1.pdb #1/A SER 502 CA              ss.3.pdb #4/? LEU 87 C     0.799    2.601
+ERman1.pdb #1/A THR 565 N               ss.3.pdb #4/? LYS 60 CA    0.799    2.526
+ERman1.pdb #1/A ASN 575 CA              ss.3.pdb #4/? ASP 100 O    0.799    2.381
+ERman1.pdb #1/A VAL 585 N               ss.3.pdb #4/? LEU 32 CA    0.796    2.529
+ERman1.pdb #1/A THR 565 C               ss.3.pdb #4/? VAL 58 CA    0.793    2.607
+ERman1.pdb #1/A ALA 590 C               ss.3.pdb #4/? GLN 119 N    0.791    2.534
+ERman1.pdb #1/A GLN 550 O               ss.3.pdb #4/? PHE 21 CA    0.791    2.389
+ERman1.pdb #1/A VAL 526 N               ss.3.pdb #4/? ASN 92 O     0.789    1.916
+ERman1.pdb #1/A PRO 580 O               ss.3.pdb #4/? PRO 104 N    0.788    2.317
+ERman1.pdb #1/A GLY 511 O               ss.3.pdb #4/? ASN 97 CA    0.788    2.392
+ERman1.pdb #1/A ALA 590 O               ss.3.pdb #4/? PRO 120 N    0.782    2.323
+ERman1.pdb #1/A LYS 506 N               ss.3.pdb #4/? GLU 34 C     0.782    2.543
+ERman1.pdb #1/A PHE 574 O               ss.3.pdb #4/? ASP 100 C    0.781    2.399
+ERman1.pdb #1/A CYS 527 N               ss.3.pdb #4/? ASP 94 N     0.781    2.469
+ERman1.pdb #1/A ASN 560 C               ss.3.pdb #4/? ILE 62 C     0.780    2.620
+ERman1.pdb #1/A GLY 581 CA              ss.3.pdb #4/? ARG 105 N    0.779    2.546
+ERman1.pdb #1/A SER 502 C               ss.3.pdb #4/? LEU 87 C     0.777    2.623
+ERman1.pdb #1/A VAL 587 O (alt loc A)   ss.3.pdb #4/? ILE 115 C    0.777    2.403
+ERman1.pdb #1/A SER 568 N               ss.3.pdb #4/? NLN 61 O     0.776    1.929
+ERman1.pdb #1/A ALA 520 C               ss.3.pdb #4/? ILE 99 CA    0.773    2.627
+ERman1.pdb #1/A VAL 510 CA              ss.3.pdb #4/? NLN 96 N     0.769    2.556
+ERman1.pdb #1/A VAL 587 C (alt loc A)   ss.3.pdb #4/? LYS 116 CA   0.768    2.632
+ERman1.pdb #1/A VAL 526 O               ss.3.pdb #4/? ASP 94 CA    0.767    2.413
+ERman1.pdb #1/A LEU 525 CA              ss.3.pdb #4/? SER 93 N     0.766    2.559
+ERman1.pdb #1/A LYS 588 C               ss.3.pdb #4/? GLN 119 N    0.755    2.570
+ERman1.pdb #1/A PRO 530 N               ss.3.pdb #4/? ASN 22 C     0.749    2.576
+ERman1.pdb #1/A ASN 575 C               ss.3.pdb #4/? LEU 87 O     0.748    2.432
+ERman1.pdb #1/A GLU 503 CA              ss.3.pdb #4/? SER 86 O     0.747    2.433
+ERman1.pdb #1/A ASP 523 CA              ss.3.pdb #4/? ASN 92 C     0.745    2.655
+ERman1.pdb #1/A ASP 523 C               ss.3.pdb #4/? LYS 91 O     0.744    2.436
+ERman1.pdb #1/A ASN 560 N               ss.3.pdb #4/? THR 63 N     0.743    2.507
+ERman1.pdb #1/A GLN 550 C               ss.3.pdb #4/? ALA 17 C     0.742    2.658
+ERman1.pdb #1/A VAL 510 O               ss.3.pdb #4/? ASN 97 N     0.741    1.964
+ERman1.pdb #1/A ASP 523 O               ss.3.pdb #4/? ASN 92 CA    0.741    2.439
+ERman1.pdb #1/A ALA 590 CA              ss.3.pdb #4/? GLN 119 C    0.739    2.661
+ERman1.pdb #1/A HIS 524 N               ss.3.pdb #4/? ASN 92 CA    0.736    2.589
+ERman1.pdb #1/A ASP 591 CA              ss.3.pdb #4/? SER 118 CA   0.736    2.664
+ERman1.pdb #1/A SER 505 CA              ss.3.pdb #4/? PHE 35 CA    0.729    2.671
+ERman1.pdb #1/A THR 565 CA              ss.3.pdb #4/? GLU 59 O     0.726    2.454
+ERman1.pdb #1/A SER 502 C               ss.3.pdb #4/? LYS 88 N     0.725    2.600
+ERman1.pdb #1/A LEU 525 C               ss.3.pdb #4/? SER 93 N     0.722    2.603
+ERman1.pdb #1/A THR 565 N               ss.3.pdb #4/? NLN 61 N     0.719    2.531
+ERman1.pdb #1/A PHE 574 CA              ss.3.pdb #4/? ILE 89 CA    0.718    2.682
+ERman1.pdb #1/A GLN 558 C               ss.3.pdb #4/? THR 63 CA    0.714    2.686
+ERman1.pdb #1/A GLU 564 CA (alt loc A)  ss.3.pdb #4/? VAL 58 N     0.714    2.611
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? LEU 57 O     0.713    2.467
+ERman1.pdb #1/A SER 505 N               ss.3.pdb #4/? GLU 34 C     0.710    2.615
+ERman1.pdb #1/A GLN 645 N               ss.3.pdb #4/? LYS 60 CA    0.710    2.615
+ERman1.pdb #1/A PRO 580 N               ss.3.pdb #4/? ARG 105 N    0.709    2.541
+ERman1.pdb #1/A GLY 581 CA              ss.3.pdb #4/? THR 106 O    0.706    2.474
+ERman1.pdb #1/A GLN 562 CA              ss.3.pdb #4/? LEU 64 CA    0.706    2.694
+ERman1.pdb #1/A GLU 564 C (alt loc A)   ss.3.pdb #4/? VAL 58 CA    0.704    2.696
+ERman1.pdb #1/A THR 600 CA              ss.3.pdb #4/? HIE 28 N     0.702    2.623
+ERman1.pdb #1/A PHE 574 CA              ss.3.pdb #4/? ILE 99 C     0.697    2.703
+ERman1.pdb #1/A HIS 524 N               ss.3.pdb #4/? ASP 29 C     0.697    2.628
+ERman1.pdb #1/A ASP 523 CA              ss.3.pdb #4/? LYS 91 O     0.696    2.484
+ERman1.pdb #1/A PRO 580 N               ss.3.pdb #4/? PRO 104 CA   0.696    2.629
+ERman1.pdb #1/A GLU 503 N               ss.3.pdb #4/? LYS 88 N     0.695    2.555
+ERman1.pdb #1/A GLN 558 O               ss.3.pdb #4/? LEU 64 N     0.694    2.011
+ERman1.pdb #1/A THR 565 C               ss.3.pdb #4/? NLN 61 N     0.692    2.633
+ERman1.pdb #1/A LEU 567 C               ss.3.pdb #4/? NLN 61 CA    0.692    2.708
+ERman1.pdb #1/A CYS 556 CA              ss.3.pdb #4/? ILE 25 CA    0.691    2.709
+ERman1.pdb #1/A PRO 580 C               ss.3.pdb #4/? ARG 105 C    0.691    2.709
+ERman1.pdb #1/A ASP 591 C               ss.3.pdb #4/? GLN 119 N    0.691    2.634
+ERman1.pdb #1/A MET 563 CA              ss.3.pdb #4/? ILE 62 C     0.690    2.710
+ERman1.pdb #1/A ALA 520 O               ss.3.pdb #4/? ILE 99 CA    0.687    2.493
+ERman1.pdb #1/A CYS 527 CA              ss.3.pdb #4/? GLN 26 C     0.685    2.715
+ERman1.pdb #1/A ASP 591 N               ss.3.pdb #4/? PRO 120 N    0.682    2.568
+ERman1.pdb #1/A LEU 567 O               ss.3.pdb #4/? ILE 62 N     0.681    2.024
+ERman1.pdb #1/A GLU 599 O               ss.3.pdb #4/? GLN 26 O     0.680    2.280
+ERman1.pdb #1/A VAL 526 C               ss.3.pdb #4/? SER 93 CA    0.673    2.727
+ERman1.pdb #1/A CYS 556 CA              ss.3.pdb #4/? ILE 25 N     0.673    2.652
+ERman1.pdb #1/A LEU 567 O               ss.3.pdb #4/? ILE 62 CA    0.672    2.508
+ERman1.pdb #1/A LEU 525 C               ss.3.pdb #4/? ASN 92 C     0.665    2.735
+ERman1.pdb #1/A LEU 567 O               ss.3.pdb #4/? NLN 61 CA    0.661    2.519
+ERman1.pdb #1/A ASP 523 O               ss.3.pdb #4/? SER 93 CA    0.660    2.520
+ERman1.pdb #1/A GLU 564 CA (alt loc A)  ss.3.pdb #4/? LEU 57 O     0.651    2.529
+ERman1.pdb #1/A GLY 566 C               ss.3.pdb #4/? NLN 61 CA    0.649    2.751
+ERman1.pdb #1/A ASP 523 CA              ss.3.pdb #4/? LYS 91 CA    0.648    2.752
+ERman1.pdb #1/A GLY 581 C               ss.3.pdb #4/? THR 106 C    0.647    2.753
+ERman1.pdb #1/A GLY 581 C               ss.3.pdb #4/? ARG 105 C    0.645    2.755
+ERman1.pdb #1/A ALA 520 C               ss.3.pdb #4/? SER 98 C     0.644    2.756
+ERman1.pdb #1/A SER 505 C               ss.3.pdb #4/? PHE 36 N     0.642    2.683
+ERman1.pdb #1/A ASN 575 CA              ss.3.pdb #4/? LEU 87 O     0.638    2.542
+ERman1.pdb #1/A VAL 587 C (alt loc A)   ss.3.pdb #4/? LYS 116 O    0.637    2.543
+ERman1.pdb #1/A GLN 550 CA              ss.3.pdb #4/? ASP 19 CA    0.636    2.764
+ERman1.pdb #1/A ASN 560 CA              ss.3.pdb #4/? THR 63 CA    0.634    2.766
+ERman1.pdb #1/A HIS 524 CA              ss.3.pdb #4/? HIE 28 O     0.634    2.546
+ERman1.pdb #1/A GLU 503 O               ss.3.pdb #4/? LEU 87 C     0.633    2.547
+ERman1.pdb #1/A VAL 587 C (alt loc A)   ss.3.pdb #4/? SER 118 N    0.633    2.692
+ERman1.pdb #1/A ARG 592 CA              ss.3.pdb #4/? SER 118 CA   0.633    2.767
+ERman1.pdb #1/A GLN 550 O               ss.3.pdb #4/? ALA 17 C     0.632    2.548
+ERman1.pdb #1/A MET 553 CA              ss.3.pdb #4/? TYR 24 N     0.632    2.693
+ERman1.pdb #1/A THR 565 N               ss.3.pdb #4/? LEU 57 C     0.631    2.694
+ERman1.pdb #1/A SER 505 CA              ss.3.pdb #4/? GLU 34 O     0.629    2.551
+ERman1.pdb #1/A GLY 581 CA              ss.3.pdb #4/? PRO 104 C    0.628    2.772
+ERman1.pdb #1/A LEU 567 C               ss.3.pdb #4/? ILE 62 N     0.628    2.697
+ERman1.pdb #1/A THR 600 CA              ss.3.pdb #4/? SER 27 O     0.626    2.554
+ERman1.pdb #1/A GLU 503 N               ss.3.pdb #4/? SER 86 CA    0.626    2.699
+ERman1.pdb #1/A HIS 524 C               ss.3.pdb #4/? ASN 92 C     0.625    2.775
+ERman1.pdb #1/A LYS 506 N               ss.3.pdb #4/? PHE 35 O     0.619    2.086
+ERman1.pdb #1/A MET 522 CA              ss.3.pdb #4/? LYS 91 O     0.618    2.562
+ERman1.pdb #1/A LEU 552 CA              ss.3.pdb #4/? ASN 22 N     0.618    2.707
+ERman1.pdb #1/A GLU 564 CA (alt loc A)  ss.3.pdb #4/? GLU 59 N     0.617    2.708
+ERman1.pdb #1/A GLU 564 O (alt loc A)   ss.3.pdb #4/? VAL 58 CA    0.616    2.564
+ERman1.pdb #1/A VAL 644 O               ss.3.pdb #4/? LYS 60 N     0.614    2.091
+ERman1.pdb #1/A ASN 560 O               ss.3.pdb #4/? THR 63 CA    0.613    2.567
+ERman1.pdb #1/A VAL 585 CA              ss.3.pdb #4/? LEU 32 N     0.612    2.713
+ERman1.pdb #1/A LEU 498 O               ss.3.pdb #4/? NLN 96 O     0.610    2.350
+ERman1.pdb #1/A LYS 588 O               ss.3.pdb #4/? SER 118 C    0.609    2.571
+ERman1.pdb #1/A THR 565 C               ss.3.pdb #4/? GLU 59 N     0.608    2.717
+ERman1.pdb #1/A ASN 575 CA              ss.3.pdb #4/? TYR 101 CA   0.605    2.795
+ERman1.pdb #1/A MET 553 C               ss.3.pdb #4/? PHE 21 O     0.605    2.575
+ERman1.pdb #1/A LEU 567 N               ss.3.pdb #4/? ILE 62 N     0.604    2.646
+ERman1.pdb #1/A PRO 580 N               ss.3.pdb #4/? GLY 103 C    0.604    2.721
+ERman1.pdb #1/A MET 522 O               ss.3.pdb #4/? PHE 90 C     0.604    2.576
+ERman1.pdb #1/A GLU 551 N               ss.3.pdb #4/? THR 18 CA    0.602    2.723
+ERman1.pdb #1/A THR 565 O               ss.3.pdb #4/? VAL 58 C     0.600    2.580
+ERman1.pdb #1/A ASN 575 O               ss.3.pdb #4/? LEU 87 C     0.600    2.580

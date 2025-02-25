@@ -1,0 +1,28 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+20 clashes
+                atom1                            atom2            overlap  distance
+ERman1.pdb #1/A LYS 588 CA             ss.9.pdb #10/? GLU 482 CA   2.685    0.715
+ERman1.pdb #1/A PRO 589 N              ss.9.pdb #10/? GLU 482 C    2.113    1.212
+ERman1.pdb #1/A LYS 588 C              ss.9.pdb #10/? GLU 482 CA   1.954    1.446
+ERman1.pdb #1/A LYS 588 C              ss.9.pdb #10/? GLU 482 C    1.948    1.452
+ERman1.pdb #1/A PRO 589 N              ss.9.pdb #10/? GLU 483 N    1.803    1.447
+ERman1.pdb #1/A LYS 588 CA             ss.9.pdb #10/? GLU 482 C    1.747    1.653
+ERman1.pdb #1/A LYS 588 CA             ss.9.pdb #10/? GLU 482 N    1.477    1.848
+ERman1.pdb #1/A PRO 589 N              ss.9.pdb #10/? GLU 482 O    1.341    1.764
+ERman1.pdb #1/A LYS 588 C              ss.9.pdb #10/? GLU 482 O    1.262    1.918
+ERman1.pdb #1/A LYS 588 N              ss.9.pdb #10/? GLU 482 CA   1.233    2.092
+ERman1.pdb #1/A PRO 589 N              ss.9.pdb #10/? GLU 482 CA   1.122    2.203
+ERman1.pdb #1/A PRO 589 CA             ss.9.pdb #10/? GLU 483 C    1.064    2.336
+ERman1.pdb #1/A LYS 588 CA             ss.9.pdb #10/? GLU 482 O    0.999    2.181
+ERman1.pdb #1/A LYS 588 C              ss.9.pdb #10/? GLU 483 N    0.925    2.400
+ERman1.pdb #1/A PRO 589 N              ss.9.pdb #10/? GLU 483 CA   0.902    2.423
+ERman1.pdb #1/A LYS 588 CA             ss.9.pdb #10/? ALA 481 C    0.847    2.553
+ERman1.pdb #1/A PRO 589 CA             ss.9.pdb #10/? GLU 483 N    0.831    2.494
+ERman1.pdb #1/A LYS 588 O              ss.9.pdb #10/? GLU 482 CA   0.765    2.415
+ERman1.pdb #1/A VAL 587 O (alt loc A)  ss.9.pdb #10/? GLU 482 O    0.737    2.223
+ERman1.pdb #1/A PRO 589 CA             ss.9.pdb #10/? GLU 482 C    0.732    2.668

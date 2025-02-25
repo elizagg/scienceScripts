@@ -1,0 +1,28 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+20 clashes
+          atom1                      atom2           overlap  distance
+ERman1.pdb #1/A ALA 590 N   ss.2.pdb #3/? GLU 23 N    1.903    1.347
+ERman1.pdb #1/A ALA 590 CA  ss.2.pdb #3/? SER 20 O    1.248    1.932
+ERman1.pdb #1/A ALA 590 CA  ss.2.pdb #3/? GLU 23 CA   1.214    2.186
+ERman1.pdb #1/A ALA 590 N   ss.2.pdb #3/? GLU 23 CA   1.211    2.114
+ERman1.pdb #1/A ASP 591 N   ss.2.pdb #3/? GLU 23 CA   1.124    2.201
+ERman1.pdb #1/A ALA 590 C   ss.2.pdb #3/? GLU 23 CA   1.075    2.325
+ERman1.pdb #1/A ALA 590 CA  ss.2.pdb #3/? TYR 24 N    1.039    2.286
+ERman1.pdb #1/A ALA 590 CA  ss.2.pdb #3/? GLU 23 N    1.021    2.304
+ERman1.pdb #1/A ALA 590 CA  ss.2.pdb #3/? GLU 23 C    1.020    2.380
+ERman1.pdb #1/A ALA 590 N   ss.2.pdb #3/? ASN 22 C    0.989    2.336
+ERman1.pdb #1/A PRO 589 C   ss.2.pdb #3/? GLU 23 N    0.986    2.339
+ERman1.pdb #1/A PRO 589 N   ss.2.pdb #3/? ASN 22 CA   0.840    2.485
+ERman1.pdb #1/A PRO 589 O   ss.2.pdb #3/? SER 20 CA   0.825    2.355
+ERman1.pdb #1/A LYS 588 C   ss.2.pdb #3/? GLU 23 N    0.710    2.615
+ERman1.pdb #1/A PRO 589 N   ss.2.pdb #3/? GLU 23 N    0.688    2.562
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? ASN 22 N    0.666    2.659
+ERman1.pdb #1/A ALA 590 CA  ss.2.pdb #3/? SER 20 C    0.648    2.752
+ERman1.pdb #1/A PRO 589 N   ss.2.pdb #3/? ASN 22 C    0.639    2.686
+ERman1.pdb #1/A ALA 590 C   ss.2.pdb #3/? GLU 23 C    0.614    2.786
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? ASN 22 CA   0.613    2.787

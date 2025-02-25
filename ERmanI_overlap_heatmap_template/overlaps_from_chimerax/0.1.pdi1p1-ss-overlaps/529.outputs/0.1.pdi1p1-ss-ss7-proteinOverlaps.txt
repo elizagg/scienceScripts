@@ -1,0 +1,9 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+1 clashes
+          atom1                      atom2            overlap  distance
+ERman1.pdb #1/A ASN 444 CA  ss.7.pdb #8/? ASP 354 CA   0.879    2.521

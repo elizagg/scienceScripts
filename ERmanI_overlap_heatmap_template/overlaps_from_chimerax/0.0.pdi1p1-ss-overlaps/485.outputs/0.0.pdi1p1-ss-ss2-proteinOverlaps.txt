@@ -1,0 +1,52 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+44 clashes
+          atom1                      atom2           overlap  distance
+ERman1.pdb #1/A PRO 589 C   ss.2.pdb #3/? SER 20 N    2.562    0.763
+ERman1.pdb #1/A ALA 590 N   ss.2.pdb #3/? SER 20 CA   2.337    0.988
+ERman1.pdb #1/A PRO 589 C   ss.2.pdb #3/? SER 20 CA   2.220    1.180
+ERman1.pdb #1/A PRO 589 O   ss.2.pdb #3/? ASP 19 C    1.994    1.186
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? SER 20 N    1.916    1.409
+ERman1.pdb #1/A ALA 590 N   ss.2.pdb #3/? SER 20 C    1.888    1.437
+ERman1.pdb #1/A PRO 589 N   ss.2.pdb #3/? PHE 21 N    1.775    1.475
+ERman1.pdb #1/A ALA 590 CA  ss.2.pdb #3/? SER 20 CA   1.542    1.858
+ERman1.pdb #1/A PRO 589 O   ss.2.pdb #3/? SER 20 N    1.525    1.180
+ERman1.pdb #1/A LYS 588 CA  ss.2.pdb #3/? ASN 22 N    1.519    1.806
+ERman1.pdb #1/A PRO 589 C   ss.2.pdb #3/? ASP 19 C    1.494    1.906
+ERman1.pdb #1/A LYS 588 C   ss.2.pdb #3/? PHE 21 N    1.469    1.856
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? ALA 17 O    1.409    1.771
+ERman1.pdb #1/A PRO 589 O   ss.2.pdb #3/? SER 20 CA   1.288    1.892
+ERman1.pdb #1/A ALA 590 N   ss.2.pdb #3/? SER 20 N    1.278    1.972
+ERman1.pdb #1/A ASP 591 N   ss.2.pdb #3/? SER 20 CA   1.224    2.101
+ERman1.pdb #1/A PRO 589 O   ss.2.pdb #3/? ASP 19 O    1.191    1.769
+ERman1.pdb #1/A ALA 590 C   ss.2.pdb #3/? SER 20 CA   1.163    2.237
+ERman1.pdb #1/A PRO 589 C   ss.2.pdb #3/? SER 20 C    1.151    2.249
+ERman1.pdb #1/A LYS 588 C   ss.2.pdb #3/? SER 20 C    1.129    2.271
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? SER 20 CA   1.089    2.311
+ERman1.pdb #1/A PRO 589 N   ss.2.pdb #3/? SER 20 C    1.028    2.297
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? ASP 19 C    0.969    2.431
+ERman1.pdb #1/A PRO 589 N   ss.2.pdb #3/? ALA 17 O    0.931    2.174
+ERman1.pdb #1/A ALA 590 CA  ss.2.pdb #3/? SER 20 C    0.918    2.482
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? PHE 21 N    0.917    2.408
+ERman1.pdb #1/A LYS 588 CA  ss.2.pdb #3/? PHE 21 N    0.866    2.459
+ERman1.pdb #1/A ALA 590 N   ss.2.pdb #3/? PHE 21 N    0.858    2.392
+ERman1.pdb #1/A PRO 589 N   ss.2.pdb #3/? SER 20 N    0.852    2.398
+ERman1.pdb #1/A LYS 588 CA  ss.2.pdb #3/? PHE 21 C    0.846    2.554
+ERman1.pdb #1/A LYS 588 O   ss.2.pdb #3/? SER 20 CA   0.846    2.334
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? ALA 17 C    0.803    2.597
+ERman1.pdb #1/A PRO 589 O   ss.2.pdb #3/? ASP 19 CA   0.800    2.380
+ERman1.pdb #1/A LYS 588 CA  ss.2.pdb #3/? PHE 21 CA   0.793    2.607
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? THR 18 C    0.781    2.619
+ERman1.pdb #1/A LYS 588 N   ss.2.pdb #3/? ASN 22 N    0.747    2.503
+ERman1.pdb #1/A LYS 588 C   ss.2.pdb #3/? SER 20 CA   0.747    2.653
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? SER 20 C    0.722    2.678
+ERman1.pdb #1/A PRO 589 CA  ss.2.pdb #3/? ASP 19 N    0.704    2.621
+ERman1.pdb #1/A PRO 589 N   ss.2.pdb #3/? PHE 21 CA   0.679    2.646
+ERman1.pdb #1/A ALA 590 CA  ss.2.pdb #3/? SER 20 O    0.657    2.523
+ERman1.pdb #1/A PRO 589 N   ss.2.pdb #3/? SER 20 CA   0.643    2.682
+ERman1.pdb #1/A ARG 592 N   ss.2.pdb #3/? ASP 19 O    0.642    2.063
+ERman1.pdb #1/A LYS 588 C   ss.2.pdb #3/? SER 20 N    0.620    2.705

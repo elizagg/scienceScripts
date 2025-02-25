@@ -1,0 +1,15 @@
+Allowed overlap: 0.6
+H-bond overlap reduction: 0.4
+Ignore clashes between atoms separated by 4 bonds or less
+Detect intra-residue clashes: False
+Detect intra-molecule clashes: True
+
+7 clashes
+          atom1                      atom2           overlap  distance
+ERman1.pdb #1/A PRO 589 N   ss.4.pdb #5/? GLU 23 CA   1.463    1.862
+ERman1.pdb #1/A PRO 589 CA  ss.4.pdb #5/? GLU 23 CA   1.258    2.142
+ERman1.pdb #1/A ALA 590 N   ss.4.pdb #5/? GLU 23 C    1.170    2.155
+ERman1.pdb #1/A ALA 590 N   ss.4.pdb #5/? GLU 23 O    0.793    1.912
+ERman1.pdb #1/A ALA 590 N   ss.4.pdb #5/? GLU 23 CA   0.734    2.591
+ERman1.pdb #1/A PRO 589 C   ss.4.pdb #5/? GLU 23 CA   0.653    2.747
+ERman1.pdb #1/A ALA 590 CA  ss.4.pdb #5/? GLU 23 O    0.636    2.544
